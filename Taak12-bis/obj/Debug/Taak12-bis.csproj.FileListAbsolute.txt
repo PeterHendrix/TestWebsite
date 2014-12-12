@@ -1,0 +1,5 @@
+C:\Users\Peter.Hendrix\Documents\Visual Studio 2012\Projects\CursusWebforms\Taak12-bis\bin\Taak12-bis.dll
+C:\Users\Peter.Hendrix\Documents\Visual Studio 2012\Projects\CursusWebforms\Taak12-bis\bin\Taak12-bis.pdb
+C:\Users\Peter.Hendrix\Documents\Visual Studio 2012\Projects\CursusWebforms\Taak12-bis\obj\Debug\Taak12-bis.dll
+C:\Users\Peter.Hendrix\Documents\Visual Studio 2012\Projects\CursusWebforms\Taak12-bis\obj\Debug\Taak12-bis.pdb
+C:\Users\Peter.Hendrix\Documents\Visual Studio 2012\Projects\CursusWebforms\Taak12-bis\obj\Debug\Taak12-bis.csprojResolveAssemblyReference.cache
